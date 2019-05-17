@@ -50,8 +50,8 @@ GNU General Public License https://www.gnu.org/licenses/ for more details.
 
 ===========================================================================
 
-REGISTRY EXPORT (PRE): laptopreg3.reg ...Loaded.
-REGISTRY EXPORT (POST): laptopreg4-del.reg ...Loaded.
+REGISTRY EXPORT (PRE): pre.reg ...Loaded.
+REGISTRY EXPORT (POST): post.reg ...Loaded.
 
 Select an option from the below menu:
 
@@ -72,7 +72,7 @@ Enter Choice:
 
 ## Authors
 
-* **A Sinha** - *Initial work* - [ANA Partner](https://anapartner.com)
+* **ANA Partner** - *Initial work* - [ANA Partner](https://anapartner.com)
 
 ## License
 
