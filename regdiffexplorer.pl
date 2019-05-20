@@ -10,8 +10,6 @@
 # [D] Key Deleted: <registry key>: <subkey>: <key value>
 # [A] Key Added: <registry key>: <subkey>: <key value>
 # 
-# Note: redirect the output to file when running. I see some garbled ouput
-# on the console.
 
 my $editor_comment = "Windows Registry Editor Version";
 my %reg1 = (); # PRE
